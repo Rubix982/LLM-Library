@@ -31,6 +31,16 @@
 
 ## Research
 
+### Most notable ideas,
+
+1. Introduction,
+  1. "... the best performances are not achieved by the largest models, but by smaller models trained on more data."
+  2. "... the preferred model is not the fastest to train but the fastest at inference, and although it may be cheaper to train a large model to reach a certain level of performance, a smaller one trained longer will ultimately be cheaper at inference"
+  3. "For instance, although Hoffmann et al. (2022) recommends training a 10B model on 200B tokens, we find that the performance of a 7B model continues to improve even after 1T tokens."
+  4. "LLaMA, ranges from 7B to 65B parameters with competitive performance compared to the best existing LLMs"
+  5. "we only use publicly available data, making our work compatible with open-sourcing"
+  6. "we present an overview of the modifications we made to the transformer architecture"
+
 ### Papers
 
 - [Hoffman et al. (2022)](https://arxiv.org/abs/2203.15556) - "Training Compute-Optimal Large Language Models"
