@@ -10,6 +10,10 @@
 4. Lit-LLaMa
 5. StackLLaMa
 6. The Bloke, `alpaca-lora-65B-GGML`
+7. Baize
+  1. [Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data](https://arxiv.org/abs/2304.01196)
+  2. [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot)
+  3. [KdNuggets - Baize: An Open-Source Chat Model (But Different?)](https://www.kdnuggets.com/2023/04/baize-opensource-chat-model-different.html)
 
 ## Links
 
